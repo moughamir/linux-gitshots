@@ -28,4 +28,3 @@ if which ffmpeg >/dev/null; then
 else
 	print "ffmpeg does not exist\n run sudo apt-get install ImageMagick"
 fi
-#:EOF TEST
